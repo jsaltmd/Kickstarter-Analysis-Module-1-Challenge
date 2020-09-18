@@ -3,7 +3,7 @@ Performing analysis to complete the module 1 challenge
 
 ## *Overview of Project*
 
-### A data analysis was performed to assess how other campaigns' fund raising goals fared with the client's (Louise) play "Fever" in relation to their launch dates and their funding goals.
+#### A data analysis was performed to assess how other campaigns' fund raising goals fared with the client's (Louise) play "Fever" in relation to their launch dates and their funding goals.
 
 ## *Analysis and Challenges*
 
@@ -17,6 +17,10 @@ Chart 1:
 )
 
 ### Analysis of Outcomes Based on Goals
+
+Chart 2:
+
+![](https://github.com/jsaltmd/Kickstarter-Module-1-Challenge/blob/master/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
