@@ -1,11 +1,13 @@
 # Kickstarter-Module-1-Challenge
 Performing analysis to complete the module 1 challenge 
 
-## Overview of Project
+## *Overview of Project*
 
-### The purpose of this project is to perform data analysis in order to assess how other campaigns' fund raising goals came close with Louise's play called "Fever" in relation to their launch dates and their funding goals.
+### Background: The client's (Louise) play "Fever" came close to its fundraising goal in a short amount of time and would like to compare how her project fared with other campaigns.
 
-## Analysis and Challenges
+### Purpose: This data analysis was performed to assess how other campaigns' fund raising goals compares to Louise's play in relation to their launch dates and their funding goals.
+
+## *Analysis and Challenges*
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -13,7 +15,7 @@ Performing analysis to complete the module 1 challenge
 
 ### Challenges and Difficulties Encountered
 
-## Results
+## *Results*
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
