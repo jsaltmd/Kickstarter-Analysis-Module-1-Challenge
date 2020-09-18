@@ -7,7 +7,7 @@ Performing analysis to complete the module 1 challenge
 
 ## *Analysis and Challenges*
 
-### Analysis of Outcomes Based on Launch Date
+### Data was taken from the attached Kickstarter_Chalenge excel file. 
 
 ### Analysis of Outcomes Based on Goals
 
