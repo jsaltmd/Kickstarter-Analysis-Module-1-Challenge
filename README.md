@@ -3,7 +3,7 @@ Performing analysis to complete the module 1 challenge
 
 ## Overview of Project
 
-### The purpose of this project is to perform data analysis in order to assess how other campaigns' fund raising goals with Louise's play called "Fever" came close to its fundraising goal in relation to their launch dates and their funding goals.
+### The purpose of this project is to perform data analysis in order to assess how other campaigns' fund raising goals came close with Louise's play called "Fever" in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
