@@ -3,9 +3,7 @@ Performing analysis to complete the module 1 challenge
 
 ## *Overview of Project*
 
-### Background: The client's (Louise) play "Fever" came close to its fundraising goal in a short amount of time and would like to compare how her project fared with other campaigns.
-
-### Purpose: This data analysis was performed to assess how other campaigns' fund raising goals compares to Louise's play in relation to their launch dates and their funding goals.
+### A data analysis was performed to assess how other campaigns' fund raising goals fared with the client's (Louise) play "Fever" in relation to their launch dates and their funding goals.
 
 ## *Analysis and Challenges*
 
