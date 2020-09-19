@@ -42,8 +42,10 @@ Chart 3:
 
 Chart 4:
 
-![]()
+![](https://github.com/jsaltmd/Kickstarter-Analysis-Module-1-Challenge/blob/master/Modified%20Outcomes%20Based%20on%20Goal%20Chart.png)
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
+*Bar graphs, pie chart, etc...*
