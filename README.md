@@ -45,7 +45,7 @@ Chart 3:
 
 Chart 4:
 
-![](./Resources/Modified Theater Outcomes Based on Launch Dates.png)
+![](./Resources/Modified%20Theater%20Outcomes%20Based%20on%20Launch%20Dates.png)
 
 - What are some limitations of this dataset?
 
