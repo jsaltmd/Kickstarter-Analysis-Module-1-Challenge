@@ -49,8 +49,8 @@ Chart 4:
 
 - What are some limitations of this dataset?
 
-*It doesnt have the data that shows why low budgetted campaigns are mostly favored than high budgetted campaigns.*
+1. *It doesnt have the data that shows why low budgetted campaigns are mostly favored than high budgetted campaigns.*
 
 - What are some other possible tables and/or graphs that we could create?
 
-*Bar graphs, pie chart, etc...*
+1. *Bar graphs, pie chart, etc...*
