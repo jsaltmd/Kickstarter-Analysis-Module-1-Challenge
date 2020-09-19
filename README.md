@@ -13,7 +13,7 @@ Performing analysis to complete the module 1 challenge
 
 Chart 1:
 
-![](https://github.com/jsaltmd/Kickstarter-Module-1-Challenge/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
+![](./Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
