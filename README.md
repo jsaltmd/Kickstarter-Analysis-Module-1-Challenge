@@ -27,11 +27,13 @@ Chart 2:
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-*Based on the results, it can be concluded that most of the campaigns launched around the last two mon ths of Q2 particularly the month of May has a high probability of success.*
+1. *Based on the results, it can be concluded that most of the campaigns launched around the last two months of Q2 particularly the month of May has a high probability of success.*
 
-*Campaigns when launched around Q1 and Q4 of the year have more chances of failing probably because these are the busiest months of the year. refer to chart 3 below.*
+2. *Campaigns when launched around Q1 and Q4 of the year have more chances of failing probably because these are the busiest months of the year. Refer to chart 3 below.*
 
 Chart 3:
+
+![](https://github.com/jsaltmd/Kickstarter-Analysis-Module-1-Challenge/blob/master/Modified%20Theater%20Outcomes%20Based%20on%20Launch%20Dates.png)
 
 
 - What can you conclude about the Outcomes based on Goals?
