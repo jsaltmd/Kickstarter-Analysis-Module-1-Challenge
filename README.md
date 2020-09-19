@@ -27,6 +27,13 @@ Chart 2:
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+*Based on the results, it can be concluded that most of the campaigns launched around the last two mon ths of Q2 particularly the month of May has a high probability of success.*
+
+*Campaigns when launched around Q1 and Q4 of the year have more chances of failing probably because these are the busiest months of the year. refer to chart 3 below.*
+
+Chart 3:
+
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
