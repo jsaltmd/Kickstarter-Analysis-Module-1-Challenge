@@ -9,7 +9,7 @@ Performing analysis to complete the module 1 challenge
 
 ### Analysis of Outcomes Based on Launch Date
 
-Data was taken from the attached Kickstarter_Chalenge excel file.
+- As shown on chart 1, May is a successful month to launch campaigns.
 
 Chart 1:
 
@@ -17,11 +17,15 @@ Chart 1:
 
 ### Analysis of Outcomes Based on Goals
 
+- As shown on chart 2, a goal of less than or equal to one thousand is enough to fund a campaign. 
+
 Chart 2:
 
 ![](https://github.com/jsaltmd/Kickstarter-Module-1-Challenge/blob/master/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+
+- In terms of the exercise, I was not able to perform the grouping of data in the pivot table because the excel software automatically grouped the row labels for me.  
 
 ## *Results*
 
@@ -35,16 +39,17 @@ Chart 3:
 
 ![](https://github.com/jsaltmd/Kickstarter-Analysis-Module-1-Challenge/blob/master/Modified%20Theater%20Outcomes%20Based%20on%20Launch%20Dates.png)
 
-
 - What can you conclude about the Outcomes based on Goals?
 
-1. *The data shows that most successful campaigns that have funding goals that are less than five thousand are successful, even more sso when it is less than equal to one thousand dollars. Chart 4 shows the outcomes based on goal with the number of total projects. 
+1. *The data shows that most successful campaigns that have funding goals that are less than five thousand are successful, even more sso when it is less than equal to one thousand dollars. Chart 4 shows the outcomes based on goal with the number of total projects. It seems that more people tend to support campaigns that are not over budgetted.*  
 
 Chart 4:
 
 ![](https://github.com/jsaltmd/Kickstarter-Analysis-Module-1-Challenge/blob/master/Modified%20Outcomes%20Based%20on%20Goal%20Chart.png)
 
 - What are some limitations of this dataset?
+
+*It doesnt have the data that shows why low budgetted campaigns are mostly favored than high budgetted campaigns.*
 
 - What are some other possible tables and/or graphs that we could create?
 
