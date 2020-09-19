@@ -21,7 +21,7 @@ Chart 1:
 
 Chart 2:
 
-![](https://github.com/jsaltmd/Kickstarter-Module-1-Challenge/blob/master/Resources/Outcomes_vs_Goals.png)
+![](./Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
