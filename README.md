@@ -41,7 +41,7 @@ Chart 3:
 
 - What can you conclude about the Outcomes based on Goals?
 
-1. *The data shows that most successful campaigns that have funding goals that are less than five thousand are successful, even more sso when it is less than equal to one thousand dollars. Chart 4 shows the outcomes based on goal with the number of total projects. It seems that more people tend to support campaigns that are not over budgetted.*  
+1. *The data shows that most successful campaigns that have funding goals that are less than five thousand are successful, even more so when it is less than equal to one thousand dollars. Chart 4 shows the outcomes based on goal with the number of total projects. It seems that more people tend to support campaigns that are not over budgetted.*  
 
 Chart 4:
 
