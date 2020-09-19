@@ -42,7 +42,7 @@ Chart 3:
 
 Chart 4:
 
-![](
+![]()
 
 - What are some limitations of this dataset?
 
