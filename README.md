@@ -37,7 +37,7 @@ Chart 2:
 
 Chart 3:
 
-![](./resources/Modified Outcomes Based on Goal Chart.png)
+![](./Resources/Modified Outcomes Based on Goal Chart.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
@@ -45,7 +45,7 @@ Chart 3:
 
 Chart 4:
 
-![](./resources/Modified Theater Outcomes Based on Launch Dates.png)
+![](./Resources/Modified Theater Outcomes Based on Launch Dates.png)
 
 - What are some limitations of this dataset?
 
