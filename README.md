@@ -11,7 +11,9 @@ Performing analysis to complete the module 1 challenge
 
 ### Analysis of Outcomes Based on Launch Date
 
-- First, the data was analyzed to look at the outcome based on launch date. As shown on chart 1, the trend shows that the peak for successful campaigns is in the month of May. However, Louise's campaign was launched in June where the trend started to go down but it is still a good month to start a campaign. Most campaigns that started in Q1 or Q4 of the year have higher chance of failure and therefore, her decision to held it in Q2 was fine. Looking at the data, there are 143 campaigns in that month, 100 campaigns were successful, 49 failed, and 4 were cancelled. It can be hypothesized that the total number of campaigns on that month and/or a shorter campaign (one month) has probably impacted Louise's chance to achieve her goal given that she only needed $400 to make her fundraising goal. 
+- First, the data was analyzed to look at the outcome based on launch date. As shown on chart 1, the trend shows that the peak for successful campaigns is in the month of May. However, Louise's campaign was launched in June where the trend started to decline. However, it is still a good month to start a campaign. Most campaigns that started in Q1 or Q4 of the year have higher failures and therefore, her decision to held it in Q2 was fine. 
+
+- Looking at the data, there are 143 campaigns in the month of June, 100 campaigns were successful, 49 failed, and 4 were cancelled. It could be hypothesized that the total number of campaigns on that month and/or a shorter campaign (one month) has probably impacted Louise's success to achieve her goal given that she only needed $400 to fund it. 
 
 Chart 1:
 
@@ -19,7 +21,7 @@ Chart 1:
 
 ### Analysis of Outcomes Based on Goals
 
-- The data shows that campaigns that have higher goals were not successful. There were a lot of pledges on other campaigns that have a goal of less than $5,000 and $1,000 as shown on chart 2. Louise's campaign goal was within this range and that's why she was only short of $400. She could have probably make it if she extended her campaign for another month or less.  
+- The data shows that most campaigns with higher goals were not successful. There were a lot of pledges on other campaigns that have asked for less than $5,000 and $1,000 as shown on chart 2. Louise's campaign goal was within this range and was only short of $400 but she could have benefited if she ran her campaign a little bit longer.  
 
 Chart 2:
 
@@ -27,13 +29,13 @@ Chart 2:
 
 ### Challenges and Difficulties Encountered
 
-- Some additional data could have helped with the assessment, such as campaign strategy, etc... to help understand why she did not make it and came very close to her goal. I have generated some additional data (e.g. date range) and modified the required charts to make it easier to perform data analysis.   
+- Some additional data could have helped with the assessment, such as campaign strategy, duration of the campaigns, etc... to help understand why she did not make it and came very close to her goal. I have generated some additional data (e.g. date range) and modified the required charts to make it easier to perform the data analysis.   
 
 ## *Results*
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1. *Based on the assessment, Louise's chance to achieve her goal could have increased if she started her campaign a month earlier or extended it for little bit longer.*
+1. *Based on the assessment, Louise's chance to achieve her goal could have increased if she started her campaign a month earlier or ran it for a little bit longer.*
 
 2. *Campaigns when launched around Q1 and Q4 of the year have more chances of failure probably because these are the busiest months of the year. Refer to chart 3 below.*
 
@@ -43,7 +45,7 @@ Chart 3:
 
 - What can you conclude about the Outcomes based on Goals?
 
-1. *The data shows that most successful campaigns that have funding goals that are less than $5,000 are successful, even more so when it is less than equal to $1,000. Chart 4 shows that more people tend to support campaigns that are not over budgetted.*  
+1. *The data shows that most successful campaigns that have funding goals that are less than $5,000 are successful, even more so when it is less than equal to $1,000. Chart 4 shows that more people tend to support campaigns that have lower funding.*  
 
 Chart 4:
 
