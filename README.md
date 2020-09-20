@@ -21,7 +21,7 @@ Chart 1:
 
 ### Analysis of Outcomes Based on Goals
 
-- The data shows that most campaigns with higher goals were not successful. There were a lot of pledges on other campaigns that have asked for less than $5,000 and $1,000 as shown on chart 2. Louise's campaign goal was within this range and was only short of $400 but she could have benefited if she ran her campaign a little bit longer.  
+- The data shows that most campaigns with higher goals were not successful. There were a lot of pledges on other campaigns that have asked for less than $5,000 and $1,000 as shown on chart 2. Louise's campaign goal was within this range and was only short of $400 but she could probably have benefited if she ran her campaign a little bit longer.  
 
 Chart 2:
 
