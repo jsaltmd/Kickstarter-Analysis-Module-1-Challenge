@@ -11,9 +11,9 @@ Performing analysis to complete the module 1 challenge
 
 ### Analysis of Outcomes Based on Launch Date
 
-- First, the data was analyzed to look at the outcome based on launch date. As shown on chart 1, the trend shows that the peak for successful campaigns is in the month of May. However, Louise's campaign was launched in June where the trend started to decline. However, it is still a good month to start a campaign. Most campaigns that started in Q1 or Q4 of the year have higher failures and therefore, her decision to held it in Q2 was fine. 
+- First, the data was analyzed to look at the outcome based on launch date. As shown on chart 1, the trend shows that the peak for successful campaigns is in the month of May. However, Louise's campaign was launched in June where the trend started to decline. However, June is still a good month to start a campaign. Most campaigns over the years that started in Q1 or Q4 have higher failures and therefore, her decision to held it in Q2 was fine. 
 
-- Looking at the data, there are 143 campaigns in the month of June, 100 campaigns were successful, 49 failed, and 4 were cancelled. It could be hypothesized that the total number of campaigns on that month and/or a shorter campaign (one month) has probably impacted Louise's success to achieve her goal given that she only needed $400 to fund it. 
+- It could be hypothesized that a shorter campaign (one month) has probably impacted Louise's success to achieve her goal given that she only needed $400 to fund it. 
 
 Chart 1:
 
@@ -21,7 +21,7 @@ Chart 1:
 
 ### Analysis of Outcomes Based on Goals
 
-- The data shows that most campaigns with higher goals were not successful. There were a lot of pledges on other campaigns that have asked for less than $5,000 and $1,000 as shown on chart 2. Louise's campaign goal was within this range and was only short of $400 but she could probably have benefited if she ran her campaign a little bit longer.  
+- The data shows that most campaigns with higher goals were not successful. There were a lot of pledges on other campaigns that have asked for less than $5,000 and even more successful for less than $1,000 as shown on chart 2. Louise's campaign goal was within this range and was only short of $400 but she could probably have benefited if she ran her campaign a little bit longer and less than $1,000 for a shorter campaign.  
 
 Chart 2:
 
@@ -35,9 +35,9 @@ Chart 2:
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1. *Based on the assessment, Louise's chance to achieve her goal could have increased if she started her campaign a month earlier or ran it for a little bit longer.*
+1. *Based on the assessment, Louise's chance to achieve her goal could have increased if she started her campaign a month earlier (month of May) or ran it for a little bit longer.*
 
-2. *Campaigns when launched around Q1 and Q4 of the year have more chances of failure probably because these are the busiest months of the year. Refer to chart 3 below.*
+2. *Campaigns when launched around Q1 and Q4 of the year have more chances of failure probably because these are the busiest months due to a lot of holidays. Refer to chart 3 below.*
 
 Chart 3:
 
